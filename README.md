@@ -11,4 +11,4 @@ CONTROL SEQUENCES= --none--
 it should be:
 DATAFILE= promotersB.fa
 
-The second script - motif_enrichment.py parses MEME files and uses the binomial test to identify the motifs that are significantly enriched.
+The second script - motif_enrichment.py parses MEME files and uses the binomial test to identify the motifs that are significantly enriched. Statistics are writen to statisticsresults.tsv. 

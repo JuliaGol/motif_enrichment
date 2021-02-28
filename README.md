@@ -10,5 +10,6 @@ PRIMARY SEQUENCES= promotersB.fa
 CONTROL SEQUENCES= --none--
 it should be:
 DATAFILE= promotersB.fa
+I uploded correct files to this respository: motifsA.txt and motifsB.txt.
 
-The second script - motif_enrichment.py parses MEME files and uses the binomial test to identify the motifs that are significantly enriched. Statistics are writen to statisticsresults.tsv. 
+The second script - motif_enrichment.py parses MEME files and uses the binomial test to identify the motifs that are significantly enriched. Statistics are writen to statisticsresults.tsv file. 
